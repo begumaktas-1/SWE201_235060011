@@ -1,6 +1,6 @@
 ﻿# StudentGrade Console Application
 
-This project is a simple C# console application created for the SWE201 lab course.
+This project is a simple C# console application created for the SWE201 lab course. 
 
 ## Purpose
 
